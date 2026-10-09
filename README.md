@@ -61,7 +61,7 @@ The music-related data was created using real data from an iTunes library. Custo
 
 The Chinook database contains 11 tables representing relationships between customers, music, employees, and sales transactions.
 
-**Schema Diagram:** [View Database Schema]()
+**Schema Diagram:** [View Database Schema](https://github.com/rahul24parate/Chinook-Digital-Music-Store-Analysis/blob/main/schema_diagram%20(2).png)
 
 ### Database Tables
 
@@ -288,8 +288,3 @@ The Chinook Digital Music Store analysis demonstrates how SQL and relational dat
 
 By examining sales transactions, customer behaviour, music preferences, and employee performance, this project aims to develop practical recommendations that support data-driven business decisions.
 
-## 📚 References
-
-* [Chinook Database Repository](https://github.com/lerocha/chinook-database)
-* [Luis Rocha's GitHub Profile](https://github.com/lerocha)
-* [Original Schema Diagram](https://github.com/Rafsan7238/Data-Analysis_Data-Science_Projects/raw/main/SQL%20Projects/Chinook%20Digital%20Music%20Store%20Analysis/schema_diagram.png)
